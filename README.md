@@ -1,4 +1,4 @@
-[![Zandaa1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zandaa1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zandaa1)](https://git.io/streak-stats)(https://github.com/DenverCoder1/github-readme-streak-stats))
 # Hi! 👋
 
 ```php
