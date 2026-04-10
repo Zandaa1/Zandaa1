@@ -1,6 +1,6 @@
 # Hi! 👋
 
- <code> 
+```php
  const Zandaa = {
   pronouns: ["he", "him"],
   code: [
@@ -20,4 +20,4 @@
     "NPM",
   ]
 }
- </code>
+```
