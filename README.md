@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zandaa1)](https://git.io/streak-stats)(https://github.com/DenverCoder1/github-readme-streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zandaa1)](https://git.io/streak-stats)
 # Hi! 👋
 
 ```php
