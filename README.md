@@ -18,8 +18,6 @@
 
 ## 👨‍💻 About Me
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Zandaa1&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
-
 I'm a **PHP developer** from Metro Manila, Philippines, currently diving into AI and machine learning. I build web apps, experiment with new technologies, and work on open-source and **private** projects in my free time. I currently maintain **17 private repositories** alongside my public work.
 
 ```javascript
