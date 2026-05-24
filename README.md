@@ -158,29 +158,15 @@ const Zandaa = {
 </tr>
 <tr>
 <td width="50%">
-<h4 align="center">Sentinel‑IDS</h4>
-<div align="center">ML-based intrusion detection system with dashboard<br><br>
-<code>Python</code>
-</div>
-</td>
-<td width="50%">
-<h4 align="center">AI Recipe Generator</h4>
-<div align="center">AI-powered recipe generation tool<br><br>
-<code>React/TS</code>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
 <h4 align="center">Music Bot</h4>
 <div align="center">Private music automation bot<br><br>
 <code>Python</code>
 </div>
 </td>
 <td width="50%">
-<h4 align="center">Chatbot</h4>
-<div align="center">Conversational AI assistant<br><br>
-<code>Python</code>
+<h4 align="center">PWU My-Copilot</h4>
+<div align="center">Laravel-based internal assistant platform<br><br>
+<code>PHP/Laravel</code>
 </div>
 </td>
 </tr>
