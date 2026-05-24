@@ -125,6 +125,69 @@ const Zandaa = {
 </table>
 
 <details>
+<summary><h2>🔒 Private Projects</h2></summary>
+<br>
+<table>
+<tr>
+<td width="50%">
+<h4 align="center">Holy Cross Profiling</h4>
+<div align="center">Church membership and attendance suite with QR tracking<br><br>
+<code>PHP/MySQL</code>
+</div>
+</td>
+<td width="50%">
+<h4 align="center">Sierra Vista HOA</h4>
+<div align="center">Estate management platform for homeowners associations<br><br>
+<code>Next.js/Supabase</code>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4 align="center">Southpoint HOA</h4>
+<div align="center">HOA management application for residential estates<br><br>
+<code>PHP</code>
+</div>
+</td>
+<td width="50%">
+<h4 align="center">Pututchini Fleet App</h4>
+<div align="center">Flutter fleet driver app with trip lifecycle & GPS tracking<br><br>
+<code>Flutter/Dart</code>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4 align="center">Sentinel‑IDS</h4>
+<div align="center">ML-based intrusion detection system with dashboard<br><br>
+<code>Python</code>
+</div>
+</td>
+<td width="50%">
+<h4 align="center">AI Recipe Generator</h4>
+<div align="center">AI-powered recipe generation tool<br><br>
+<code>React/TS</code>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4 align="center">Music Bot</h4>
+<div align="center">Private music automation bot<br><br>
+<code>Python</code>
+</div>
+</td>
+<td width="50%">
+<h4 align="center">Chatbot</h4>
+<div align="center">Conversational AI assistant<br><br>
+<code>Python</code>
+</div>
+</td>
+</tr>
+</table>
+</details>
+
+<details>
 <summary><h3>🔗 Forks & Contributions</h3></summary>
 <br>
 <table>
