@@ -35,48 +35,62 @@ const Zandaa = {
 };
 ```
 
-## 📦 Projects
+## 📦 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">QueueTracker</h3>
-<div align="center">Queue management system (FINALS project)<br><br>
-<a href="https://github.com/Zandaa1/QueueTracker"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<h3 align="center">🔒 Holy Cross Profiling</h3>
+<div align="center">Membership & attendance suite with QR tracking, 2FA, event lifecycle<br><br>
+<code>PHP</code> <code>MySQL</code> <code>Bootstrap</code>
 </div>
 </td>
+<td width="50%">
+<h3 align="center">🔒 Sierra Vista HOA</h3>
+<div align="center">Estate management platform — billing, amenities, gate security, reporting<br><br>
+<code>Next.js</code> <code>Supabase</code> <code>TypeScript</code>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🔒 Pututchini Fleet App</h3>
+<div align="center">Flutter fleet driver app — trip lifecycle, GPS tracking, SOS, chat<br><br>
+<code>Flutter</code> <code>Dart</code> <code>SignalR</code>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🔒 Southpoint HOA</h3>
+<div align="center">HOA management application for a residential estate client<br><br>
+<code>PHP</code> <code>MySQL</code>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🔒 PWU My-Copilot</h3>
+<div align="center">Laravel-based internal assistant platform<br><br>
+<code>PHP</code> <code>Laravel</code>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">PWU PointsTracker</h3>
+<div align="center">Web-based points & QR management system with admin dashboard<br><br>
+<code>PHP</code> <code>MySQL</code>
+</div>
+</td>
+</tr>
+<tr>
 <td width="50%">
 <h3 align="center">blurtit</h3>
 <div align="center">PHP-based social platform<br><br>
-<a href="https://github.com/Zandaa1/blurtit"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">PWU PointsTracker</h3>
-<div align="center">Points tracking system for PWU<br><br>
-<a href="https://github.com/Zandaa1/PWU_PointsTracker_PUBLIC"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
+<code>PHP</code>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">School DB System</h3>
-<div align="center">BSIT 244 Database Management Systems<br><br>
-<a href="https://github.com/Zandaa1/schooldb_newui_FINALS"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">spotify_discord</h3>
-<div align="center">Spotify-Discord presence integration<br><br>
-<a href="https://github.com/Zandaa1/spotify_discord"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">RandomBoxGenerator</h3>
-<div align="center">Random box generator for profile use<br><br>
-<a href="https://github.com/Zandaa1/RandomBoxGenerator"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<h3 align="center">QueueTracker</h3>
+<div align="center">Queue management system<br><br>
+<code>Python</code>
 </div>
 </td>
 </tr>
@@ -84,94 +98,17 @@ const Zandaa = {
 <td width="50%">
 <h3 align="center">databaseqr</h3>
 <div align="center">QR-based database system<br><br>
-<a href="https://github.com/Zandaa1/databaseqr"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">ComputerAccessories</h3>
-<div align="center">Computer accessories e-commerce site<br><br>
-<a href="https://github.com/Zandaa1/ComputerAccessories"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">html-login-inventory-pwu</h3>
-<div align="center">ICT 12 - Login & Inventory System<br><br>
-<a href="https://github.com/Zandaa1/html-login-inventory-pwu"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">client-website-1</h3>
-<div align="center">Client website project<br><br>
-<a href="https://github.com/Zandaa1/client-website-1"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">pythoninstaller-project</h3>
-<div align="center">Python installer project<br><br>
-<a href="https://github.com/Zandaa1/pythoninstaller-project"><img src="https://img.shields.io/badge/-Batchfile-4EAA25?style=flat-square&logo=windows&logoColor=white"/></a>
+<code>PHP</code> <code>MySQL</code>
 </div>
 </td>
 <td width="50%">
 <h3 align="center">zandaa1.github.io</h3>
 <div align="center">Personal portfolio website<br><br>
-<a href="https://github.com/Zandaa1/zandaa1.github.io"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<code>HTML</code> <code>CSS</code>
 </div>
 </td>
 </tr>
 </table>
-
-<details>
-<summary><h2>🔒 Private Projects</h2></summary>
-<br>
-<table>
-<tr>
-<td width="50%">
-<h4 align="center">Holy Cross Profiling</h4>
-<div align="center">Church membership and attendance suite with QR tracking<br><br>
-<code>PHP/MySQL</code>
-</div>
-</td>
-<td width="50%">
-<h4 align="center">Sierra Vista HOA</h4>
-<div align="center">Estate management platform for homeowners associations<br><br>
-<code>Next.js/Supabase</code>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4 align="center">Southpoint HOA</h4>
-<div align="center">HOA management application for residential estates<br><br>
-<code>PHP</code>
-</div>
-</td>
-<td width="50%">
-<h4 align="center">Pututchini Fleet App</h4>
-<div align="center">Flutter fleet driver app with trip lifecycle & GPS tracking<br><br>
-<code>Flutter/Dart</code>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h4 align="center">Music Bot</h4>
-<div align="center">Private music automation bot<br><br>
-<code>Python</code>
-</div>
-</td>
-<td width="50%">
-<h4 align="center">PWU My-Copilot</h4>
-<div align="center">Laravel-based internal assistant platform<br><br>
-<code>PHP/Laravel</code>
-</div>
-</td>
-</tr>
-</table>
-</details>
 
 <details>
 <summary><h3>🔗 Forks & Contributions</h3></summary>
@@ -181,30 +118,18 @@ const Zandaa = {
 <td><a href="https://github.com/Zandaa1/Spectra-Frontend">Spectra-Frontend</a> — Valorant spectating tool (Fork)</td>
 <td><a href="https://github.com/Zandaa1/obs-StreamFX">obs-StreamFX</a> — OBS Studio effects plugin (Fork)</td>
 </tr>
-<tr>
-<td><a href="https://github.com/Zandaa1/aws-elastic-beanstalk-express-js-sample">AWS EB Express Sample</a> — AWS DevOps sample app (Fork)</td>
-<td><a href="https://github.com/Zandaa1/Atlas">Atlas</a> — Windows performance optimization (Fork)</td>
-</tr>
 </table>
 </details>
 
 <details open>
-<summary><h2>📊 GitHub Stats</h2></summary>
+<summary><h3>📊 GitHub Activity</h3></summary>
 <br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zandaa1&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zandaa1&layout=compact&theme=transparent&hide_border=true" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Zandaa1&show_icons=true&theme=transparent&hide_border=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zandaa1&layout=compact&theme=transparent&hide_border=true"/>
     <br/>
-    <img src="https://streak-stats.demolab.com/?user=Zandaa1&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Zandaa1&theme=transparent&hide_border=true"/>
     <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Zandaa1&column=4&theme=nord&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Zandaa1&bg_color=transparent&title_color=00E6FF&color=00E6FF&line=00E6FF&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-    <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-      <img width=100% src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    </picture>
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Zandaa1&bg_color=transparent&title_color=00E6FF&color=00E6FF&line=00E6FF&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph"/>
 </div>
 </details>
