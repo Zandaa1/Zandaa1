@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <a href="https://zandaa1.github.io"><img src="https://img.shields.io/badge/Website-00E6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://zandaa.dev"><img src="https://img.shields.io/badge/Website-00E6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
     <a href="https://github.com/Zandaa1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="mailto:zandaa@example.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <br>
