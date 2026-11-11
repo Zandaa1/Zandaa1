@@ -26,11 +26,11 @@ My work includes campus navigation, QR tracking, membership records, HOA managem
 
 ## Experience
 
-- **IT & Software Developer Intern, IMERGEX Information Technologies, Inc.** | March-May 2026  
+- **IT & Software Developer Intern, IMERGEX Information Technologies, Inc.** | March-May 2026
   Completed a 480-hour internship developing web and mobile systems, with responsibility for hosting, deployment, and maintenance. Worked with PHP/MySQL, Node.js, Supabase, and Flutter.
-- **Freelance IT & Developer** | 2018-present  
+- **Freelance IT & Developer** | 2018-present
   Provide hardware and software diagnostics, PC builds, thermal repasting, OS recovery, and malware removal. Built hospital and café websites using HTML, CSS, and Tailwind.
-- **Esports Technical Director, Philippine Women's University Esports** | 2024-2026  
+- **Esports Technical Director, Philippine Women's University Esports** | 2024-2026
   Handled production, networking, direction, and graphics. Created stream graphics with Adobe Creative Suite and ran instant replays using vMix Replay and vMix Controller.
 
 ## Skills
@@ -120,11 +120,7 @@ My work includes campus navigation, QR tracking, membership records, HOA managem
 <summary><strong>GitHub activity</strong></summary>
 <br/>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zandaa1&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub profile statistics" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zandaa1&layout=compact&theme=transparent&hide_border=true" alt="Languages shown across GitHub repositories" />
     <br/>
     <img src="https://streak-stats.demolab.com/?user=Zandaa1&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=Zandaa1&bg_color=transparent&title_color=00E6FF&color=00E6FF&line=00E6FF&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub contribution graph" />
 </div>
 </details>
